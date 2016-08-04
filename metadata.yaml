@@ -1,0 +1,32 @@
+_repo: The-Wandering-Jew---Volume-10_3348
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sue, Eugène
+    aliases:
+    - Sue, Marie Joseph
+    - Sue, Eugene
+    birthdate: 1804
+    deathdate: 1857
+    gutenberg_agent_id: '1186'
+    url: http://www.gutenberg.org/2009/agents/1186
+    wikipedia: http://en.wikipedia.org/wiki/Eugène_Sue
+description: Translation of Le Juif errant.
+gutenberg_issued: '2004-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3348'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Jesuits -- Fiction'
+- !lcsh 'France -- History -- Louis Philippe, 1830-1848 -- Fiction'
+- !lcsh 'Wandering Jew -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Inheritance and succession -- Fiction'
+- GITenberg
+title: The Wandering Jew — Volume 10
+url: http://www.gutenberg.org/ebooks/3348
